@@ -1,0 +1,29 @@
+body{
+    background-color: #eae7dc;
+}
+.brand{
+    font-size:45px;
+    color: #E85A4F;
+    font-weight: 1000;
+    text-decoration: none;
+}
+.nav-link{
+    font-family: 'Trebuchet MS', 'sans-serif';
+    font-size: 20px;
+    color: #8E8D8A;
+    font-weight: 700;
+}
+.navbar-nav.ms-auto .nav-link {
+    margin-right: 35px;
+}
+.nav-link {
+    position: relative;
+    display: inline-block;
+}
+.navbar{
+    background-color: rgba(255, 255, 255, 0);
+}
+.nav-link:hover{
+    color: #E85A4F;
+    text-decoration: underline;
+}
